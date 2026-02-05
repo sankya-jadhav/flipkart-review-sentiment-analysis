@@ -17,7 +17,7 @@ The application classifies reviews as **Positive** or **Negative** and provides 
 ## 📊 Dataset
 
 - **Source:** Flipkart product reviews dataset (provided for internship project)  
-- **Records:** ~20,000 reviews  
+- **Records:** ~8500 reviews  
 - **Key Columns Used:**  
   - Review Text  
   - Rating (used to derive sentiment label)  
